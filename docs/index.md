@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+# Ted Lasso is the greatest show ever!
+
+This is built using https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions and the **Classic Pages** experience.
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
